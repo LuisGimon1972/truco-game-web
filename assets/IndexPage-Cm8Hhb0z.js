@@ -1,0 +1,1 @@
+import{r as e,t}from"./TrucoPage-5h3_KN8I.js";import{D as n,E as r,H as i,L as a,x as o}from"./symbols-BIfcER5f.js";var s=n({__name:`IndexPage`,setup(n){return(n,s)=>(a(),o(e,{class:`flex flex-center bg-green-10`},{default:i(()=>[r(t)]),_:1}))}});export{s as default};
